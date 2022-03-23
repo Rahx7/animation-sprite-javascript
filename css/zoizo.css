@@ -1,0 +1,103 @@
+body {
+background-color:#aaa;
+
+}
+.zoizo {
+    position: absolute;
+    top:200px;
+    z-index: 10;
+    display: inline-block;
+    left: 200px;
+    top: 200px;
+    /* la largeur et la hauteur, représentent les dimensions 
+    d'un masque
+    width: 93px;
+    height: 161px; */ 
+    /* background: url(../img/mortVivantDroite.png) no-repeat ; */
+    /* background-image: url(); */
+}
+
+.bras{
+display: block;
+position: absolute;
+}
+
+
+*{
+box-sizing: border-box;
+
+}
+/* div{
+
+    width: 100px;
+    height: 100px;
+    background: url(../img/ovni.png) no-repeat ;
+
+} */
+/* 
+div div {
+color: blueviolet;
+}
+
+
+.lien1 {
+
+    color:orange;
+}
+
+.madiv {
+    background: url(../img/explosion.png) no-repeat ;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.zoizo.position_1 {
+    background-position: 0 0;
+}
+
+.zoizo.position_2 {
+    background-position: -75px 0;
+}
+
+.zoizo.position_3 {
+    background-position: -150px 0px;
+}
+
+.zoizo.position_4 {
+    background-position: -225px 0px;
+}
+
+.zoizo.position_5 {
+    background-position: -300px 0px;
+}
+
+.zoizo.position_6 {
+    background-position: 0 -120px;
+}
+
+.zoizo.position_7 {
+    background-position: -75px -120px;
+}
+
+.zoizo.position_8 {
+    background-position: -150px -120px;
+}
+
+.zoizo.position_9 {
+    background-position: -225px -120px;
+}
+
+.zoizo.position_10 {
+    background-position: -300px -120px;
+}*/
